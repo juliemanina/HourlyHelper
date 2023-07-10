@@ -17,17 +17,17 @@ HourlyHelper is a Python-based program that helps calculate the cost of a babysi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/babysitter-application.git
+   git clone https://github.com/your-username/HourlyHelper.git
 
 ## Run the application
 
-   python babysitter.py
+   python HourlyHelper_gui.py
 
 ## Instruction manual
-- Enter the hourly rate for the babysitter and press Enter.
+- Enter the hourly rate for the HourlyHelper and press Enter.
 - To start the timer, press Enter.
 - To stop the timer and calculate the cost, press Enter again.
 - The total cost will be displayed on the screen.
 
 ## Contributing
-Contributions to the Babysitter Application project are welcome and encouraged. If you find any bugs, have feature requests, or want to make improvements, please feel free to open issues and pull requests in this repository.
+Contributions to the HourlyHelper project are welcome and encouraged. If you find any bugs, have feature requests, or want to make improvements, please feel free to open issues and pull requests in this repository.
